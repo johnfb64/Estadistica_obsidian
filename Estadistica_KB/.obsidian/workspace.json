@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "a8ca86615ac2c50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4669474821244399",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "427b360967246907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos Clave/Varianza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Varianza"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a3b01f1737af5063",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "654449ef5cc9772c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eb11b658185fbb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8badb185d05da399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19bb95e1e4db3051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2dcb53a534f75d6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44815b9169e04608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "460740bf6a7f8c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "8981c4d02a8a20b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ab9bcd9543d816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conceptos Clave/Conceptos clave.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Conceptos clave"
+            }
+          },
+          {
+            "id": "49c14d48a02c7216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceptos Clave/Conceptos clave.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Conceptos clave"
+            }
+          },
+          {
+            "id": "cdb5d3c75bcac669",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3cf4a8980e8ab37e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceptos Clave/Conceptos clave.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Conceptos clave"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "654449ef5cc9772c",
+  "lastOpenFiles": [
+    "Conceptos Clave/Varianza.md",
+    "Plantillas/plantilla_concepto_estadistica.md.md",
+    "Conceptos Clave/Conceptos clave.md",
+    "Untitled 1.md",
+    "Plantillas",
+    "Welcome.md",
+    "Conceptos Clave"
+  ]
+}
