@@ -50,7 +50,9 @@ $$
 
 ## 🔗 Enlaces útiles
 
-- [[Varianza]]
+- [[varianza]]
+- [[varianza_muestral]]
+- [[varianza_poblacional]]
 
 
 ---

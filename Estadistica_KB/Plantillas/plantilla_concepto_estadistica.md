@@ -9,12 +9,36 @@ Describe aquí el concepto clave con tus propias palabras o con definiciones for
 
 ---
 
+## ⚙️ Proceso paso a paso
+Describe aquí el procedimiento que se debe seguir para resolver un problema relacionado con este concepto.
+
+1. ...
+2. ...
+
+
+
+---
+
 ## 📐 Fórmulas
 
 ```latex
 $$
 \text{Ejemplo:} \quad \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
 $$
+```
+
+---
+## 🖥️ Código de apoyo (Python)
+```python
+
+
+```
+
+---
+## 🖥️ Output esperado
+
+```text
+
 ```
 
 ---

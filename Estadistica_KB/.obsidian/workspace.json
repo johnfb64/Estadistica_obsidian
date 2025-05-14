@@ -6,7 +6,7 @@
       {
         "id": "4669474821244399",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 54.51263537906137,
         "children": [
           {
             "id": "427b360967246907",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos Clave/Varianza.md",
+                "file": "Python/np_where.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varianza"
+              "title": "np_where"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "a3b01f1737af5063",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 45.48736462093863,
         "children": [
           {
             "id": "654449ef5cc9772c",
@@ -189,9 +189,32 @@
   },
   "active": "654449ef5cc9772c",
   "lastOpenFiles": [
-    "Conceptos Clave/Varianza.md",
-    "Plantillas/plantilla_concepto_estadistica.md.md",
+    "Python/np_where.md",
+    "Python/np_sort.md",
+    "Python/Unconfirmed 313225.crdownload",
+    "Python/np_percentile.md",
+    "Python/np_array.md",
+    "Python/np_argsort.md",
+    "Plantillas/plantilla_concepto_estadistica.md",
+    "Conceptos Clave/varianza.md",
+    "Conceptos Clave/mediana_ponderada.md",
+    "Conceptos Clave/IQR.md",
     "Conceptos Clave/Conceptos clave.md",
+    "Varianza_Muestral.md",
+    "Conceptos Clave/Mediana ponderada.md",
+    "Plantillas/plantilla_numpy.md",
+    "Conceptos Clave/Unconfirmed 720822.crdownload",
+    "Python/Unconfirmed 184567.crdownload",
+    "Python/Unconfirmed 125158.crdownload",
+    "Plantillas/plantilla_concepto_estadistica.md.md",
+    "Python/np.argsort.md",
+    "Python/Unconfirmed 194629.crdownload",
+    "Varianza muestral.md",
+    "Media aritmética.md",
+    "Python",
+    "Plantillas/Unconfirmed 446962.crdownload",
+    "Conceptos Clave/Mediana Ponderada.md",
+    "Conceptos Clave/Unconfirmed 861249.crdownload",
     "Untitled 1.md",
     "Plantillas",
     "Welcome.md",
